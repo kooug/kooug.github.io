@@ -1,0 +1,18 @@
+body {
+	background-image: url("pic.jpg");
+}
+h1, p {
+	color: white;
+}
+
+#slogan{
+	font-size: 28;
+	font-weight: bold;
+	font-style: italic;
+	color: white;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
