@@ -1,0 +1,31 @@
+body {
+	background-image: url(https://static.pexels.com/photos/29068/pexels-photo.jpg);
+	background-size: cover;
+	text-align:center;
+}
+h1, p {
+	color: white;
+	font-size:26px;
+}
+
+#name{
+	font-size:40px;
+}
+
+#slogan{
+	font-size: 44px;
+	font-weight: bold;
+	font-style: italic;
+	color: red;
+}
+
+ul {
+    list-style-type: none;
+    color: white;
+}
+
+li{
+	color:white;
+	font-weight:bold;
+	font-size:26px;
+}
