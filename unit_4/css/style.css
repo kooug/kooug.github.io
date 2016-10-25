@@ -1,0 +1,25 @@
+body {
+	background-image: url(https://static.pexels.com/photos/92628/pexels-photo-92628.jpeg);
+	background-size: cover;
+	text-align:center;
+}
+h1, p {
+	color: black;
+	font-size:26px;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+#name{
+	font-size:60px;
+}
+
+#slogan {
+	font-size: 44px;
+	font-weight: bold;
+	font-style: italic;
+	color: red;
+}
+h2 {
+	font-size:30px;
+}
+
